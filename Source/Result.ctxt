@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=score\ tries\ catNo
+comment0.target=void\ Calculate(int[],\ boolean[],\ int)
+comment1.params=score\ tries\ cattries\ name
+comment1.target=void\ Display(int[],\ boolean[],\ boolean[],\ java.lang.String)
+numComments=2
